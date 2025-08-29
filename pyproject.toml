@@ -3,7 +3,7 @@ name = "littlelemon"
 version = "0.1.0"
 description = "Dynamic Restaurant app built with Django"
 authors = [
-    { name = "Parveen Kashyap", email = "your-email@example.com" }
+    { name = "Parveen Kashyap", email = "er.parveen44@example.com" }
 ]
 keywords = ["django", "restaurant", "booking", "menu"]
 readme = "README.md"
