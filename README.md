@@ -15,7 +15,7 @@ LittleLemon is a Django-powered restaurant app where:
 ## ⚡ Quickstart
 ```bash
 # Clone it
-git clone https://github.com/your-username/little-lemon-django.git
+git clone https://github.com/parveen-ml/django-littlelemon.git
 cd little-lemon-django
 
 # Install deps with uv
